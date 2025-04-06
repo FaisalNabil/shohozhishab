@@ -4226,16 +4226,16 @@
         },
         {
             "name": "phpoffice/phpspreadsheet",
-            "version": "4.0.0",
+            "version": "4.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPOffice/PhpSpreadsheet.git",
-                "reference": "2d4b9f3582102aafb6b1378fff8a20eeeacfb31c"
+                "reference": "6ff18c3a8df3a945492f75ce455d77f7ad55dd5c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/zipball/2d4b9f3582102aafb6b1378fff8a20eeeacfb31c",
-                "reference": "2d4b9f3582102aafb6b1378fff8a20eeeacfb31c",
+                "url": "https://api.github.com/repos/PHPOffice/PhpSpreadsheet/zipball/6ff18c3a8df3a945492f75ce455d77f7ad55dd5c",
+                "reference": "6ff18c3a8df3a945492f75ce455d77f7ad55dd5c",
                 "shasum": ""
             },
             "require": {
@@ -4325,9 +4325,9 @@
             ],
             "support": {
                 "issues": "https://github.com/PHPOffice/PhpSpreadsheet/issues",
-                "source": "https://github.com/PHPOffice/PhpSpreadsheet/tree/4.0.0"
+                "source": "https://github.com/PHPOffice/PhpSpreadsheet/tree/4.1.0"
             },
-            "time": "2025-02-08T02:28:25+00:00"
+            "time": "2025-03-02T06:52:24+00:00"
         },
         {
             "name": "phpoption/phpoption",
@@ -7631,16 +7631,16 @@
         },
         {
             "name": "symfony/console",
-            "version": "v7.2.1",
+            "version": "v7.2.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "fefcc18c0f5d0efe3ab3152f15857298868dc2c3"
+                "reference": "e51498ea18570c062e7df29d05a7003585b19b88"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/console/zipball/fefcc18c0f5d0efe3ab3152f15857298868dc2c3",
-                "reference": "fefcc18c0f5d0efe3ab3152f15857298868dc2c3",
+                "url": "https://api.github.com/repos/symfony/console/zipball/e51498ea18570c062e7df29d05a7003585b19b88",
+                "reference": "e51498ea18570c062e7df29d05a7003585b19b88",
                 "shasum": ""
             },
             "require": {
@@ -7704,7 +7704,7 @@
                 "terminal"
             ],
             "support": {
-                "source": "https://github.com/symfony/console/tree/v7.2.1"
+                "source": "https://github.com/symfony/console/tree/v7.2.5"
             },
             "funding": [
                 {
@@ -7720,7 +7720,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-12-11T03:49:26+00:00"
+            "time": "2025-03-12T08:11:12+00:00"
         },
         {
             "name": "symfony/css-selector",
